@@ -1,7 +1,8 @@
 ProtoCam
 ========
 
-The ProtoCam is a prototyping board developed by [Richard Saville](http://averagemanvsraspberrypi.com) and funded through [Kickstarter](https://www.kickstarter.com/projects/955730101/protocam-the-raspberry-pi-camera-module-prototypin).
+The ProtoCam is a prototyping board developed by [Richard Saville](http://averagemanvsraspberrypi.com) and is currently being funded through [Kickstarter](https://www.kickstarter.com/projects/955730101/protocam-the-raspberry-pi-camera-module-prototypin).
+If you want something to build a circuit and mount a Pi camera, I can thoroughly recommend it!
 
 The script isn't fancy, all it does is read a button press and then:
 * lights the 4 LEDs up
